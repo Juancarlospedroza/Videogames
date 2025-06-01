@@ -1,1 +1,4 @@
-# Videogames  ![image](https://github.com/user-attachments/assets/7e8a4b03-3e9d-4573-ad3d-23b5e8ede74f)
+# Videogames 
+
+
+<img src="https://github.com/user-attachments/assets/744a2ef6-bfe8-47a4-ab8f-228124d5f316" alt="Texto alternativo" style="width:100px; height:auto;" />
